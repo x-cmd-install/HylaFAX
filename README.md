@@ -12,6 +12,18 @@ HylaFAX Software
 x install HylaFAX
 ```
 
+## Code insight
+
+Total: **80,446** lines of code across **371** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Cpp | 49,092 | 13,463 | 3,887 | 142 |
+| Autoconf | 11,545 | 3,671 | 1,334 | 64 |
+| CHeader | 8,340 | 4,536 | 1,218 | 117 |
+| C | 5,629 | 1,813 | 505 | 41 |
+| Sh | 4,365 | 765 | 355 | 7 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ifax/HylaFAX>
@@ -30,21 +42,12 @@ x install HylaFAX
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **80,446** lines of code across **371** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Cpp | 49,092 | 13,463 | 3,887 | 142 |
-| Autoconf | 11,545 | 3,671 | 1,334 | 64 |
-| CHeader | 8,340 | 4,536 | 1,218 | 117 |
-| C | 5,629 | 1,813 | 505 | 41 |
-| Sh | 4,365 | 765 | 355 | 7 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -55,4 +58,4 @@ Install metadata for HylaFAX lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:01:18Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:13:31Z._
